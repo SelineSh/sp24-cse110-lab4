@@ -1,0 +1,2 @@
+1. It take the input into string, but string1 + string2 = string1 string2
+2. Add a "- 0" after let num1 = document.getElementById("num1").value and let num2 = document.getElementById("num2").value, to change the string to number.
