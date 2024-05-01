@@ -10,9 +10,13 @@
 10. 3, Since the length is set outside the for loop and the price = [100, 200, 300], the price.length = 3 = length.
 11. [ 50, 100, 150 ], because 100*(1-0.5), 200*(1-0.5), 300 * (1-0.5) = 150.
 12. A: console.log(student.name);
+    
     B: console.log(student["Grad Year"]);
+
     C: student.greeting();
+
     D: console.log(student["Favorite Teacher"].name);
+    
     E: console.log(student.courseLoad[0]);
 13. A: "32" because '3' is a string and + 2 is the same as setting 2 to a string and adding it to 3.
     B: "1", Since '3' as a string can't be subtracted from 2, "3" becomes a number and is subtracted from 2.
