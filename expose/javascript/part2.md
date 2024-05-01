@@ -45,6 +45,9 @@
 17. [ 2, 4, 6 ], because we give the arry[1,2,3], and the callback is function doSomething. In the doSomething we time the number 2. therefore we get [2,4,6].
 18. part2-question18.js
 19. 1
+    
     4
+
     3
+    
     2
